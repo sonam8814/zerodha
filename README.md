@@ -14,10 +14,10 @@
 + JavaScript (ES6+)<br>
 ## Project Workflow<br>
 1. Planning:<br>
-  * Goals: Define key features (trading dashboard, user authentication).
-  * Tech Stack: Frontend (HTML, CSS, JavaScript).<br>
+      * Goals: Define key features (trading dashboard, user authentication).<br>
+      * Tech Stack: Frontend (HTML, CSS, JavaScript).<br>
 2. Design:<br>
-  * Wireframes: Sketch main pages (home, login, dashboard).
+      * Wireframes: Sketch main pages (home, login, dashboard).
 3. Development:<br>
- * Frontend: Build with HTML, CSS, JavaScript (React for dynamic UI).
+      * Frontend: Build with HTML, CSS, JavaScript (React for dynamic UI).
 
